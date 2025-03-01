@@ -1,3 +1,4 @@
+*.pbix linguist-language=PowerBI
 # Blinkit Business Analysis – Power BI Dashboard
 
 **Overview**
