@@ -48,4 +48,6 @@ Interactive Data Visualization
 1. Download the .pbix file.
 2. Open it in Power BI Desktop.
 3. Explore the visualizations and insights.
+
+![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Analytics-yellow)
   
