@@ -50,7 +50,13 @@ Interactive Data Visualization
 2. Open it in Power BI Desktop.
 3. Explore the visualizations and insights.
 
+
+**Preview**
    ![Screenshot 2025-03-23 121510](https://github.com/user-attachments/assets/68e3d21a-5a87-46bf-a0c7-034e66273d31)
+
+📩 Contact
+
+📧 snehasureshbabu6@gmail.com | 🌐 | 💼 https://www.linkedin.com/in/sneha-sureshbabu-0b724a238
 
 
 
